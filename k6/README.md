@@ -1,11 +1,10 @@
----
-## 📄 `k6/README.md` – K6 + Grafana
-```markdown
+
+
 # 🚀 Load Testing com K6 + Grafana
 
 Este projeto realiza testes de performance simulando **500 usuários simultâneos por 5 minutos**, com os dados enviados para o **InfluxDB** e visualizados no **Grafana**.
 
----
+
 
 ## 📂 Estrutura do Projeto
 
