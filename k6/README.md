@@ -98,10 +98,3 @@ Caso o relatório não apareça automaticamente, siga os passos abaixo:
 
 - Certifique-se de que o Docker está em execução antes de iniciar os testes.
 - Para personalizar o teste, edite o arquivo `scripts/load-test.js`.
-
----
-
-## 📧 Suporte
-
-Em caso de dúvidas, entre em contato pelo e-mail: `suporte@exemplo.com`.
-````
