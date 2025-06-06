@@ -30,15 +30,5 @@ Cada pasta possui um README específico com informações detalhadas sobre o des
 - **Cucumber**: Para escrita de cenários de teste no formato Gherkin.
 - **Cypress**: Framework de testes E2E.
 - **Ferramentas de API**: Utilizadas para validação e automação de endpoints.
-
-## Contribuição
-Contribuições são bem-vindas! Siga os passos abaixo:
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature:
-   ```bash
-   git checkout -b minha-feature
-   ```
-3. Envie um pull request.
-
 ---
 **Nota:** Este projeto é apenas para fins de avaliação técnica.
