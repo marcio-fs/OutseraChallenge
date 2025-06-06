@@ -1,0 +1,26 @@
+{
+  "name": "cypress-web",
+  "version": "1.0.0",
+  "description": "Challenge to test a web application using Cypress",
+  "keywords": [
+    "cypress",
+    "web",
+    "testing",
+    "challenge"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Marcio Silva",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
+    "cypress": "^14.2.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "stepDefinitions": "cypress/e2e/step-definitions/**/*.{js,ts}",
+    "nonGlobalStepDefinitions": true
+  }
+}
